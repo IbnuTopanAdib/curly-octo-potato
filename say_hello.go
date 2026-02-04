@@ -2,6 +2,6 @@ package curlyoctopotato
 
 import "fmt"
 
-func SayHello() {
-	fmt.Println("Hello Indonesia")
+func SayHello(name string) {
+	fmt.Println("Hello " + name)
 }
