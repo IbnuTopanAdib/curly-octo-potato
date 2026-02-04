@@ -3,5 +3,5 @@ package curlyoctopotato
 import "fmt"
 
 func SayHello() {
-	fmt.Println("Hello world")
+	fmt.Println("Hello Indonesia")
 }
